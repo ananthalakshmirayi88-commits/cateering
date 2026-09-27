@@ -1,0 +1,6 @@
+{
+  "name": "Shalini Devi Cooking & Catering",
+  "description": "శాలిని దేవి కుకింగ్ & క్యాటరింగ్ - Authentic event catering, live tiffin counters, veg & non-veg menus in Peddapuram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
